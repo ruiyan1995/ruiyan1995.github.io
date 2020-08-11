@@ -253,9 +253,9 @@
           <tr>
               </tr>
         </table> -->
-      <br>
+      <!-- <br> -->
 
-      <br>
+      <!-- <br> -->
       <hr>
 
       <center>
@@ -268,13 +268,13 @@
       </center>
 
 
-      <hr>
+      <!-- <hr> -->
         <!-- <table align=center width=550px> -->
         <table align=center width=800px>
       <center><h1>NBA Dataset</h1></center>
           <tr>
           <td><a href=""><img class="layered-paper-big" style="height:175px" src="./figs/firstpage.png"/></a></td>
-          <td><span style="font-size:14pt">xxxx<br>
+          <td>
           <p style="text-align:justify";>
           We collect a total of 181 NBA game videos with a high resolution of 1920 X 1080. Then we divide each video into 6-second clips and sub-sample them to 12fps. Ultimately, there are a total of 9,172 video clips, each of which belongs to one of the 9 activities. We used 7,624 clips for training and 1,548 clips for testing. The train-test split of is performed at video level, rather than at frame level.<br>
 
@@ -283,20 +283,70 @@
           <br>
           <br>
           <strong>Group Activity Class</strong>:
-
+          <table border="1">
+            <tr>
+              <th>Group Activity</th>
+              <th># clips (Train/Test)</th>
+            </tr>
+            <tr>
+              <td>2p-succ.</td>
+              <td>798/163</td>
+            </tr>
+            <tr>
+              <td>2p-fail.-off.</td>
+              <td>434/107</td>
+            </tr>
+            <tr>
+              <td>2p-fail.-def.</td>
+              <td>1316/234</td>
+            </tr>
+            <tr>
+              <td>2p-layup-succ.</td>
+              <td>822/172</td>
+            </tr>
+            <tr>
+              <td>2p-layup-fail.-off.</td>
+              <td>455/89</td>
+            </tr>
+            <tr>
+              <td>2p-layup-fail.-def.</td>
+              <td>702/157</td>
+            </tr>
+            <tr>
+              <td>3p-succ.</td>
+              <td>728/183</td>
+            </tr>
+            <tr>
+              <td>3p-fail.-off.</td>
+              <td>519/83</td>
+            </tr>
+            <tr>
+              <td>3p-fail.-def.</td>
+              <td>1850/360</td>
+            </tr>
+          </table>
           <br>
           <br>
           <strong>Train-test split</strong>:
-
+          <table border="1">
+            <tr>
+              <td>Train Video IDs</td>
+              <td>xxxxxxxxx</td>
+            </tr>
+            <tr>
+              <td>Test Video IDs</td>
+              <td>xxxxxxxxxxx</td>
+            </tr>
+          </table>
           <br>
           <br>
           <strong>Further information:</strong>
           <li>
-            Inside each video directory, a set of directories corresponds to annotated clips (e.g. NBA/181/xxxxxxxx represents "Video 181, clip ID xxxxxxx". Each clip directory has xx images(frames).
+            Inside each video directory, a set of directories corresponds to annotated clips (e.g. "NBA/21800909/17" represents "Video ID 21800909, Clip ID 17". Each clip directory has <strong>72</strong> images (frames).
           </li>
 
           <li>
-            Each video directory has annotations.txt file that contains annotations for the selected clips. Each annotation line in format: {Clip ID} {Group Activity Class}
+            Each video directory has an <strong>annotations.txt</strong> file that contains annotations for the selected clips. Each annotation line in format: {Clip ID} {Group Activity Class}
           </li>
           
           </p>
@@ -308,13 +358,13 @@
         </table>
       <br>
 
-      <table align=center width=600px>
+<!--       <table align=center width=600px>
         <tr>
           <td><span style="font-size:14pt"><center>
             <a href="./figs/bibtex.txt">[Bibtex]</a>
                   </center></td>
               </tr>
-        </table>
+        </table> -->
 
         <hr>
 
@@ -327,10 +377,29 @@
           <p style="text-align:justify";>
           This work was supported by the National Key Research and Development Program of China under Grant 2018AAA0102002, the National Natural Science Foundation of China under Grants 61732007, 61702265, and 61932020.
           </p>
-          
+          <hr>
           <center><h1>Citation</h1></center>
           <p style="text-align:justify";>
-          In case using our NBA dataset, please site the following publication.
+          In case using our NBA dataset or wish to refer to the baseline results, please site the following publication.<br>
+          @article{yan2020social,<br>
+                    title={Social Adaptive Module for Weakly-supervised Group Activity Recognition},<br>
+                    author={Yan, Rui and Xie, Lingxi and Tang, Jinhui and Shu, Xiangbo and Tian, Qi},<br>
+                    journal={arXiv preprint arXiv:2007.09470},<br>
+                    year={2020}<br>
+                  }<br>
+          @article{tang2019coherence,<br>
+                    title={Coherence constrained graph LSTM for group activity recognition},<br>
+                    author={Tang, Jinhui and Shu, Xiangbo and Yan, Rui and Zhang, Liyan},<br>
+                    journal={IEEE transactions on pattern analysis and machine intelligence},<br>
+                    year={2019}<br>
+                  }<br>
+          @inproceedings{yan2018participation,<br>
+                    title={Participation-contributed temporal dynamic model for group activity recognition},<br>
+                    author={Yan, Rui and Tang, Jinhui and Shu, Xiangbo and Li, Zechao and Tian, Qi},<br>
+                    booktitle={Proceedings of the 26th ACM international conference on Multimedia},<br>
+                    pages={1292--1300},<br>
+                    year={2018}<br>
+                  }<br>
           </p>
 
         </table>
