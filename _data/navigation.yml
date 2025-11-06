@@ -1,0 +1,25 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Research Interests"
+    url: "/#r-interests"
+    
+  - title: "News"
+    url: "/#news"
+    
+  - title: "Selected Publications"
+    url: "/#pub"
+
+  - title: "Honors and Awards"
+    url: "/#ha"
+
+  - title: "Grants"
+    url: "/#teach"
+
+  - title: "Team"
+    url: "/team/"
+
+  - title: "Academic Service"
+    url: "/#Service"
