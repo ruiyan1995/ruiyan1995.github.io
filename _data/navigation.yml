@@ -5,6 +5,9 @@ main:
 
   - title: "Research Interests"
     url: "/#r-interests"
+
+  - title: "Team"
+    url: "/team/"
     
   - title: "News"
     url: "/#news"
@@ -17,9 +20,6 @@ main:
 
   - title: "Grants"
     url: "/#teach"
-
-  - title: "Team"
-    url: "/team/"
 
   - title: "Academic Service"
     url: "/#Service"
