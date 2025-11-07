@@ -23,6 +23,7 @@ redirect_from:
 
 <p style="text-align: justify;font-family: Roboto;">
 
+VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href="https://imag-njust.net/">Intelligent Media Analysis Group (IMAG)</a> built by the chief leader of Prof. <a href="https://v2.imag-njust.net/people/user/tangjinhui/">Jinhui Tang</a>. The leader of VIM@IMAG is <a href="https://shuxb104.github.io/">Xiangbo Shu</a>, a Professor at the School of Computer Science and Engineering, Nanjing University of Science and Technology, China. Based on IMAG, the primary goal of VIM@IMAG is to break through bottlenecks and to make hardcore innovations in human-centric vision problems, including Visual Perception, Visual Understanding, Model Deployment. Our team members are as follows.
 
 </p>
 
@@ -186,4 +187,116 @@ redirect_from:
   }
 </style>
 
+# <font color="#2B6ADD"> Current Member </font>
 
+<div class="row custom-grid">
+    <div class="col">
+      <div class="card d-flex flex-column h-100 text-center">
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Hongyu Qu</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
+              <p class="mb-neg-2">2024.9 ~ Present</p>
+          </div>
+      </div> 
+    </div>
+    <div class="row custom-grid">
+    <div class="col">
+      <div class="card d-flex flex-column h-100 text-center">
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Xing Ling</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
+              <p class="mb-neg-2">2024.9 ~ Present</p>
+          </div>
+      </div> 
+    </div>
+  <div class="row custom-grid">
+    <div class="col">
+      <div class="card d-flex flex-column h-100 text-center">
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Yanzheng Qian</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
+              <p class="mb-neg-2">2025.11 ~ Present</p>
+          </div>
+      </div> 
+    </div>
+    <div class="row custom-grid">
+    <div class="col">
+      <div class="card d-flex flex-column h-100 text-center">
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Weida Wu</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
+              <p class="mb-neg-2">coming soon</p>
+          </div>
+      </div> 
+    </div>
+    <div class="row custom-grid">
+    <div class="col">
+      <div class="card d-flex flex-column h-100 text-center">
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">WenXuan Ge</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+              <p class="mb-neg-2">2024.9 ~ Present</p>
+          </div>
+      </div> 
+    </div>
+ <div class="row custom-grid">
+    <div class="col">
+      <div class="card d-flex flex-column h-100 text-center">
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Chufan Yi</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+              <p class="mb-neg-2">2024.9 ~ Present</p>
+          </div>
+      </div> 
+    </div>
+    <div class="row custom-grid">
+    <div class="col">
+      <div class="card d-flex flex-column h-100 text-center">
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Weihao Xu</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+              <p class="mb-neg-2">2024.9 ~ Present</p>
+          </div>
+      </div> 
+    </div>
+     <div class="row custom-grid">
+    <div class="col">
+      <div class="card d-flex flex-column h-100 text-center">
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Bo Li</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+              <p class="mb-neg-2">2025.9 ~ Present</p>
+          </div>
+      </div> 
+    </div>
+     <div class="row custom-grid">
+    <div class="col">
+      <div class="card d-flex flex-column h-100 text-center">
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Yang Liu</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+              <p class="mb-neg-2">2025.9 ~ Present</p>
+          </div>
+      </div> 
+    </div>
+     <div class="row custom-grid">
+    <div class="col">
+      <div class="card d-flex flex-column h-100 text-center">
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Wenhao Zhuang</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+              <p class="mb-neg-2">2025.9 ~ Present</p>
+          </div>
+      </div> 
+    </div>
+    
