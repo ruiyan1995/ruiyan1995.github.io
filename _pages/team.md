@@ -309,8 +309,7 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
       </div>
     </div> 
   </div>
-</div>
- <!-- 第十个成员 -->
+   <!-- 第十个成员 -->
   <div class="col-md-4">
     <div class="card d-flex flex-column h-100 text-center">
       <div class="card-body">
@@ -321,3 +320,4 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
     </div> 
   </div>
 </div>
+
