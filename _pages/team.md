@@ -310,3 +310,15 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
     </div> 
   </div>
 </div>
+ <!-- 第十个成员 -->
+  <div class="col-md-4">
+    <div class="card d-flex flex-column h-100 text-center">
+      <div class="card-body">
+        <h6 class="card-title mb-0">Tang He</h6>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Research Assistant</p>
+        <--p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Event-Based Vision</p-->
+        <p class="mb-neg-2">coming soon</p>
+      </div>
+    </div> 
+  </div>
+</div>
