@@ -195,9 +195,10 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
     <div class="card d-flex flex-column h-100 text-center">
       <div class="card-body">
         <h6 class="card-title mb-0">Hongyu Qu</h6>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Embodied Intelligence</p>
-        <p class="mb-neg-2">2024.9 ~ Present</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(w/ Prof. Xiangbo Shu)</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">PhD student</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Topic: embodied intelligence</p>
+        <p class="mb-neg-2">from 2024/09</p>
       </div>
     </div> 
   </div>
@@ -207,9 +208,10 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
     <div class="card d-flex flex-column h-100 text-center">
       <div class="card-body">
         <h6 class="card-title mb-0">Xing Ling</h6>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">vision-centric mllm</p>
-        <p class="mb-neg-2">2024.9 ~ Present</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(w/ Prof. Jinhui Tang)</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">PhD student</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Topic: vision-centric mllm</p>
+        <p class="mb-neg-2">from 2024/09</p>
       </div>
     </div> 
   </div>
@@ -219,9 +221,9 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
     <div class="card d-flex flex-column h-100 text-center">
       <div class="card-body">
         <h6 class="card-title mb-0">Yanzheng Qian</h6>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">VLA</p>
-        <p class="mb-neg-2">2025.11 ~ Present</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">PhD student</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Topic: VLA</p>
+        <p class="mb-neg-2">from 2025/11</p>
       </div>
     </div> 
   </div>
@@ -231,9 +233,9 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
     <div class="card d-flex flex-column h-100 text-center">
       <div class="card-body">
         <h6 class="card-title mb-0">Weida Wu</h6>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">VLA</p>
-        <p class="mb-neg-2">coming soon</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">PhD student</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Topic: VLA</p>
+        <p class="mb-neg-2">from 2026/09</p>
       </div>
     </div> 
   </div>
@@ -243,9 +245,10 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
     <div class="card d-flex flex-column h-100 text-center">
       <div class="card-body">
         <h6 class="card-title mb-0">Wenxuan Ge</h6>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">test-time adaptation</p>
-        <p class="mb-neg-2">2024.9 ~ Present</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(w/ Prof. Xiangbo Shu)</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">MS student</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Topic: test-time adaptation</p>
+        <p class="mb-neg-2">from 2024/09</p>
       </div>
     </div> 
   </div>
@@ -255,9 +258,10 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
     <div class="card d-flex flex-column h-100 text-center">
       <div class="card-body">
         <h6 class="card-title mb-0">Chufan Yi</h6>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">video temporal grounding</p>
-        <p class="mb-neg-2">2024.9 ~ Present</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(w/ Prof. Guosen Xie)</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">MS student</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Topic: temporal grounding</p>
+        <p class="mb-neg-2">from 2024/09</p>
       </div>
     </div> 
   </div>
@@ -267,9 +271,10 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
     <div class="card d-flex flex-column h-100 text-center">
       <div class="card-body">
         <h6 class="card-title mb-0">Weihao Xu</h6>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Video editing</p>
-        <p class="mb-neg-2">2024.9 ~ Present</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(w/ Prof. Jinhui Tang)</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">MS student</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Topic: Video editing</p>
+        <p class="mb-neg-2">from 2024/09</p>
       </div>
     </div> 
   </div>
@@ -279,9 +284,9 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
     <div class="card d-flex flex-column h-100 text-center">
       <div class="card-body">
         <h6 class="card-title mb-0">Li Bo</h6>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Synthetic robot data in VLA </p>
-        <p class="mb-neg-2">2025.9 ~ Present</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">MS student</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Topic: synthetic data for VLA </p>
+        <p class="mb-neg-2">from 2025/09</p>
       </div>
     </div> 
   </div>
@@ -291,9 +296,10 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
     <div class="card d-flex flex-column h-100 text-center">
       <div class="card-body">
         <h6 class="card-title mb-0"> Liu Yang</h6>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Inference acceleration</p>
-        <p class="mb-neg-2">2025.9 ~ Present</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(w/ Prof. Jinhui Tang)</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">MS student</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Topic: Inference acceleration</p>
+        <p class="mb-neg-2">from 2025/09</p>
       </div>
     </div> 
   </div>
@@ -303,9 +309,10 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
     <div class="card d-flex flex-column h-100 text-center">
       <div class="card-body">
         <h6 class="card-title mb-0">Wenhao Zhuang</h6>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Event-Based Vision</p>
-        <p class="mb-neg-2">2025.9 ~ Present</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(w/ Prof. Jinhui Tang)</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">MS student</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Topic: Event-Based Vision</p>
+        <p class="mb-neg-2">from 2025/09</p>
       </div>
     </div> 
   </div>
@@ -315,7 +322,8 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
       <div class="card-body">
         <h6 class="card-title mb-0">Tang He</h6>
         <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Research Assistant</p>
-        <p class="mb-neg-2">coming soon</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Topic: Event-Based Vision</p>
+        <p class="mb-neg-2">from 2025/11</p>
       </div>
     </div> 
   </div>
