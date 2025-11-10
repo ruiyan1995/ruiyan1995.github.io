@@ -240,6 +240,8 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
     </div> 
   </div>
 
+  
+
   <!-- 第五个成员 -->
   <div class="col-md-4">
     <div class="card d-flex flex-column h-100 text-center">
@@ -327,5 +329,39 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
       </div>
     </div> 
   </div>
+
+  <div class="col-md-4">
+    <div class="card d-flex flex-column h-100 text-center">
+      <div class="card-body">
+        <h6 class="card-title mb-0">Xingbo Qiu</h6>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">MS student</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Topic: Reasoning-guided Editing</p>
+        <p class="mb-neg-2">from 2026/09</p>
+      </div>
+    </div> 
+  </div>
+
+  <div class="col-md-4">
+    <div class="card d-flex flex-column h-100 text-center">
+      <div class="card-body">
+        <h6 class="card-title mb-0">Minghang Li</h6>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">MS student</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Topic: Video Understanding + RL</p>
+        <p class="mb-neg-2">from 2026/09</p>
+      </div>
+    </div> 
+  </div>
+
+  <div class="col-md-4">
+    <div class="card d-flex flex-column h-100 text-center">
+      <div class="card-body">
+        <h6 class="card-title mb-0">Xinwen Hu</h6>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">MS student</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Topic: VideoLLM Safety</p>
+        <p class="mb-neg-2">from 2026/09</p>
+      </div>
+    </div> 
+  </div>
+
 </div>
 
