@@ -95,7 +95,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
       <td>
         <p text-align="left">
         <b>Vision-centric Token Compression in Large Language Model</b><br>
-			Ling Xing, Alex Jinpeng Wang, <b>Rui Yan</b>, Jinhui Tang<br>
+			Ling Xing, Alex Jinpeng Wang, <b>Rui Yan*</b>, Jinhui Tang<br>
 			NeurIPS (<font color=Brown>Spotlight</font>), 2025  [<a href="https://arxiv.org/pdf/2502.00791">PDF</a>]
         </p>
       </td>
