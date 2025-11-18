@@ -37,7 +37,7 @@ I am currently a Professor in Intelligent Media Analysis Group (<a href="https:/
 
 # <font color="#2B6ADD" > Researh Interests </font>
 <p style="font-family: Roboto;">
-Human behavior computing, Video understanding, Action analysis, and other related human-centric problems in Artificial Intelligence, Computer Vision and Multimedia.</p>
+Video Understanding, Human Behavior Analysis, Embodied Intelligence and other related human-centric problems in Artificial Intelligence, Computer Vision and Multimedia.</p>
 <br>
 <font color=Brown>
 <i style="font-family: Roboto;">*Positions for Interns/Master/PhD's Programme*</i>
@@ -95,8 +95,8 @@ Human behavior computing, Video understanding, Action analysis, and other relate
       <td>
         <p text-align="left">
         <b>Vision-centric Token Compression in Large Language Model</b><br>
-			Ling Xing, Alex Jinpeng Wang, <b>Rui Yan*</b>, Jinhui Tang<br>
-			NeurIPS (<font color=Brown>Spotlight</font>), 2025  [<a href="https://arxiv.org/pdf/2502.00791">PDF</a>]
+			Ling Xing, Alex Jinpeng Wang, <b>Rui Yan*</b>, Xiangbo Shu, Jinhui Tang<br>
+			NeurIPS (<font color=Brown>Spotlight</font>), 2025  [<a href="https://arxiv.org/pdf/2502.00791">PDF</a>] [<a href="https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652640763&idx=2&sn=c0463cd8c62f5e29feac45a00747b02c&chksm=f012aaeac6a0ec6048752f3f6c27d9b87881a843c0786d78e3100e5facbcdb07ce6a86bb2a33&scene=0&xtrack=1">新智元</a>]
         </p>
       </td>
     </tr>
