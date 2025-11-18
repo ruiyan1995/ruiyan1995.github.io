@@ -96,7 +96,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
         <p text-align="left">
         <b>Vision-centric Token Compression in Large Language Model</b><br>
 			Ling Xing, Alex Jinpeng Wang, <b>Rui Yan</b>, Jinhui Tang<br>
-			arxiv, 2025  [<a href="https://arxiv.org/pdf/2502.00791">PDF</a>]
+			NeurIPS (<font color=Brown>Spotlight</font>), 2025  [<a href="https://arxiv.org/pdf/2502.00791">PDF</a>]
         </p>
       </td>
     </tr>
@@ -262,6 +262,7 @@ For more papers, please kindly refer to <a href="https://scholar.google.com.hk/c
 <span class='anchor' id='ha'></span>
 
 # <font color="#2B6ADD"> Honors and Awards </font>
+- 江苏省科学技术一等奖（排4），2024
 - 中国图象图形学学会(CSIG)-优秀博士论文 2024
 - 江苏省青年科技人才托举工程 2024
 - 江苏省计算机学会-优秀博士论文 2024
@@ -292,6 +293,7 @@ For more papers, please kindly refer to <a href="https://scholar.google.com.hk/c
 
 <span class='anchor' id='Service'></span>
 # <font color="#2B6ADD"> Academic Service </font>
-- 中国图像图形学会多媒体专业委员会委员
+- 中国图像图形学会多媒体专业委员会委员（CSIG-MM）
+- 中国计算机学会计算机视觉专业委员会委员（CCF-CV）
 - Reviewer for CVPR/ICCV/ECCV/NeurIPS/AAAI/IJCAI/MM, TPAMI/TIP/TNNLS/TCSVT/PR/Neurocomputing/Information Sciences.
 
