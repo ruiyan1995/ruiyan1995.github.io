@@ -194,7 +194,7 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
   <div class="col-md-4">
     <div class="card d-flex flex-column h-100 text-center">
       <div class="card-body">
-        <h6 class="card-title mb-0", href="https://quhongyu.github.io/">Hongyu Qu</h6>
+        <h6 class="card-title mb-0"><a href="https://quhongyu.github.io/">Hongyu Qu</a></h6>
         <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(w/ Prof. Xiangbo Shu)</p>
         <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">PhD student</p>
         <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Topic: embodied intelligence</p>
