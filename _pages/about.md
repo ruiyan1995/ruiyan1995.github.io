@@ -47,9 +47,12 @@ Video Understanding, Human Behavior Analysis, Embodied Intelligence and other re
 
 <span class='anchor' id='news'></span>
 # <font color="#2B6ADD"> News </font>
+- 2025.12: Two paper is accepted by IEEE TCSVT.
+- 2025.9: One paper is accepted by NeurIPS 2025.
 - 2025.7: One paper is accepted by ICCV 2025.
 - 2025.4: Two papers is accepted by IJCAI 2025.
 - 2025.1: One paper is accepted by ICLR 2025.
+- 2024.12: One paper is accepted by IEEE TMM.
 - 2024.7: Two papers is accepted by ACM MM 2024.
 - 2024.7: One paper is accepted by IEEE TMM.
 - 2024.4: One paper is accepted by IEEE TCSVT.
@@ -262,14 +265,16 @@ For more papers, please kindly refer to <a href="https://scholar.google.com.hk/c
 <span class='anchor' id='ha'></span>
 
 # <font color="#2B6ADD"> Honors and Awards </font>
-- 江苏省科学技术一等奖（排4），2024
-- 中国图象图形学学会(CSIG)-优秀博士论文 2024
-- 江苏省青年科技人才托举工程 2024
-- 江苏省计算机学会-优秀博士论文 2024
-- 南京理工大学-优秀博士论文 2024
-- 南京大学-毓秀青年学者 2023
-- 国家资助博士后 2023
-- 江苏省卓越博士后 2023
+- 江苏省科学技术一等奖（排4），江苏省政府，2024
+- 中国图象图形学学会(CSIG)-优博，中国图象图形学学会，2024
+- 江苏省青年科技人才托举工程， 江苏省科协，2024
+- 江苏省计算机学会-优博，江苏省计算机学会，2024
+- 校优秀博士论文，南京理工大学，2024
+- 国家资助博士后，中国博士后科学基金会，2023
+- 中国博士后科学基金特别资助，中国博士后科学基金会，2023
+- 江苏省卓越博士后，江苏省人社厅，2023
+- 新城市教育基金-后备学科带头人奖，南京理工大学，2026
+- 毓秀青年学者，南京大学，2023
 <!-- - The Outstanding PhD of Nanjing University of Science and Technology 2020
 - ACM Multimedia Student Travel Grant 2018
 - The First Prize Scholarship of Nanjing University of Science and Technology 2017, 2018
@@ -285,15 +290,36 @@ For more papers, please kindly refer to <a href="https://scholar.google.com.hk/c
 - 国家自然科学基金青年科学基金项目, 2024.1-2024.12
 - 国家资助博士后项目, 2023-2025
 - 中国博士后科学基金第73批面上资助, 2023-2025
-- 中国博士后科学基金特别资助, 2023-2025
-- 江苏省卓越博士后资助, 2023-2025
-- 中央高校基本科研业务费-揭榜挂帅, 2023
-- 中央高校基本科研业务费-揭榜挂帅, 2024
+<!-- - 中国博士后科学基金特别资助, 2023-2025 -->
+<!-- - 江苏省卓越博士后资助, 2023-2025 -->
+- 南京理工大学科研启动经费, 2025
+- 中央高校基本科研业务费-揭榜挂帅, 2023/2024
+<!-- - 中央高校基本科研业务费-揭榜挂帅, 2024 -->
 <span class='anchor' id='team'></span>
 
 <span class='anchor' id='Service'></span>
 # <font color="#2B6ADD"> Academic Service </font>
 - 中国图像图形学会多媒体专业委员会委员（CSIG-MM）
 - 中国计算机学会计算机视觉专业委员会委员（CCF-CV）
-- Reviewer for CVPR/ICCV/ECCV/NeurIPS/AAAI/IJCAI/MM, TPAMI/TIP/TNNLS/TCSVT/PR/Neurocomputing/Information Sciences.
+- TPC for CVPR/ICCV/ECCV/NeurIPS/AAAI/IJCAI/MM, TPAMI/TIP/TNNLS/TIFS/TMM/TCSVT/TOMM/PR/Neurocomputing/Information Sciences.
+
+
+<!-- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+IEEE Transactions on Image Processing (TIP)
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+IEEE Transactions on Information Forensics and Security (TIFS)
+IEEE Transactions on Multimedia (TMM)
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
+Pattern Recognition (PR)
+Neurocomputing
+Information Sciences
+
+IEEE/CVF Conference on Computer Vision and Pattern Recognition（CVPR）
+IEEE/CVF International Conference on Computer Vision（ICCV）
+European Conference on Computer Vision（ECCV）
+Conference on Neural Information Processing Systems（NeurIPS）
+AAAI Conference on Artificial Intelligence（AAAI）
+International Joint Conference on Artificial Intelligence（IJCAI）
+ACM International Conference on Multimedia（MM） -->
 
