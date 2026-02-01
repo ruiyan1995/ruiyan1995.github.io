@@ -270,14 +270,14 @@ For more papers, please kindly refer to <a href="https://scholar.google.com.hk/c
 - 南京大学-毓秀青年学者 2023
 - 国家资助博士后 2023
 - 江苏省卓越博士后 2023
-- The Outstanding PhD of Nanjing University of Science and Technology 2020
+<!-- - The Outstanding PhD of Nanjing University of Science and Technology 2020
 - ACM Multimedia Student Travel Grant 2018
 - The First Prize Scholarship of Nanjing University of Science and Technology 2017, 2018
 - Excellent Undergraduate Thesis of Jiangsu Province 2018
 - Top Ten Outstanding Youth of Nanjing Forestry University 2017
 - The Second prize of National University Students Computer Design Competition 2016
 - The National Encouragement Scholarship 2014, 2015, 2016
-- Merit Student of Nanjing Forestry University 2014, 2015, 2016
+- Merit Student of Nanjing Forestry University 2014, 2015, 2016 -->
 <span class='anchor' id='teach'></span>
 
 # <font color="#2B6ADD"> Grants </font>
