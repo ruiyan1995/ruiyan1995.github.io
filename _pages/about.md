@@ -275,16 +275,8 @@ For more papers, please kindly refer to <a href="https://scholar.google.com.hk/c
 - 江苏省卓越博士后，江苏省人社厅，2023
 - 新城市教育基金-后备学科带头人奖，南京理工大学，2026
 - 毓秀青年学者，南京大学，2023
-<!-- - The Outstanding PhD of Nanjing University of Science and Technology 2020
-- ACM Multimedia Student Travel Grant 2018
-- The First Prize Scholarship of Nanjing University of Science and Technology 2017, 2018
-- Excellent Undergraduate Thesis of Jiangsu Province 2018
-- Top Ten Outstanding Youth of Nanjing Forestry University 2017
-- The Second prize of National University Students Computer Design Competition 2016
-- The National Encouragement Scholarship 2014, 2015, 2016
-- Merit Student of Nanjing Forestry University 2014, 2015, 2016 -->
-<span class='anchor' id='teach'></span>
 
+<span class='anchor' id='teach'></span>
 # <font color="#2B6ADD"> Grants </font>
 - 国家自然科学基金面上项目, 2025.1-2028.12
 - 国家自然科学基金青年科学基金项目, 2024.1-2024.12
@@ -323,3 +315,11 @@ AAAI Conference on Artificial Intelligence（AAAI）
 International Joint Conference on Artificial Intelligence（IJCAI）
 ACM International Conference on Multimedia（MM） -->
 
+<!-- - The Outstanding PhD of Nanjing University of Science and Technology 2020
+- ACM Multimedia Student Travel Grant 2018
+- The First Prize Scholarship of Nanjing University of Science and Technology 2017, 2018
+- Excellent Undergraduate Thesis of Jiangsu Province 2018
+- Top Ten Outstanding Youth of Nanjing Forestry University 2017
+- The Second prize of National University Students Computer Design Competition 2016
+- The National Encouragement Scholarship 2014, 2015, 2016
+- Merit Student of Nanjing Forestry University 2014, 2015, 2016 -->
