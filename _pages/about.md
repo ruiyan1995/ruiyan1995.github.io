@@ -47,18 +47,19 @@ Video Understanding, Human Behavior Analysis, Embodied Intelligence and other re
 
 <span class='anchor' id='news'></span>
 # <font color="#2B6ADD"> News </font>
-- 2025.12: Two paper is accepted by IEEE TCSVT.
-- 2025.9: One paper is accepted by NeurIPS 2025.
-- 2025.7: One paper is accepted by ICCV 2025.
-- 2025.4: Two papers is accepted by IJCAI 2025.
+- 2026.2: Two papers are accepted by CVPR 2026. Congratulations to Wenxuan Ge and Meiqi Cao.
+- 2025.12: Two papers are accepted by IEEE TCSVT.
+- 2025.9: One paper is accepted by NeurIPS 2025. Congratulations to Ling Xing.
+- 2025.7: One paper is accepted by ICCV 2025. Congratulations to Meiqi Cao.
+- 2025.4: Two papers are accepted by IJCAI 2025. Congratulations to Wenxuan Ge.
 - 2025.1: One paper is accepted by ICLR 2025.
 - 2024.12: One paper is accepted by IEEE TMM.
-- 2024.7: Two papers is accepted by ACM MM 2024.
+- 2024.7: Two papers are accepted by ACM MM 2024.
 - 2024.7: One paper is accepted by IEEE TMM.
 - 2024.4: One paper is accepted by IEEE TCSVT.
 - 2024.2: One paper is accepted by IJCAI 2024.
 - 2023.12: One paper is accepted by IEEE TIP.
-- 2023.6: Four paper is accepted by ACM MM 2023.
+- 2023.6: Four papers are accepted by ACM MM 2023.
 - 2023.6: One paper is accepted by ICCV 2023.
 - 2023.5: One paper is accepted by IEEE TCSVT.
 - 2023.3: One paper is accepted by IEEE TPAMI.
