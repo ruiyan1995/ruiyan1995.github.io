@@ -240,7 +240,7 @@ GEM
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rexml (3.2.5)
+    rexml (3.4.2)
     rouge (3.26.0)
     ruby-enum (0.9.0)
       i18n
@@ -270,7 +270,6 @@ GEM
       unf_ext
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
-    wdm (0.1.1)
     webrick (1.8.1)
     zeitwerk (2.4.2)
 
@@ -285,7 +284,6 @@ DEPENDENCIES
   jekyll-feed
   jekyll-sitemap
   tzinfo-data
-  wdm (~> 0.1.0)
   webrick (~> 1.8)
 
 BUNDLED WITH
