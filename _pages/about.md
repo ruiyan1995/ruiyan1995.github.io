@@ -47,6 +47,7 @@ Video Understanding, Human Behavior Analysis, Embodied Intelligence and other re
 
 <span class='anchor' id='news'></span>
 # <font color="#2B6ADD"> News </font>
+- 2026.3: One paper is accepted by TPAMI. Congratulations to Hongyu Qu.
 - 2026.2: Two papers are accepted by CVPR 2026. Congratulations to Wenxuan Ge and Meiqi Cao.
 - 2025.12: Two papers are accepted by IEEE TCSVT.
 - 2025.9: One paper is accepted by NeurIPS 2025. Congratulations to Ling Xing.

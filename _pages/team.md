@@ -198,6 +198,7 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
         <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(w/ Prof. Xiangbo Shu)</p>
         <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">PhD student</p>
         <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Embodied Intelligence</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Intern at Alibaba and NUS</p>
         <p class="mb-neg-2">from 2024/09</p>
       </div>
     </div> 
@@ -211,6 +212,7 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
         <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(w/ Prof. Jinhui Tang)</p>
         <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">PhD student</p>
         <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Vision-centric MLLM</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Intern at Alibaba and NTU</p>
         <p class="mb-neg-2">from 2024/09</p>
       </div>
     </div> 
@@ -221,9 +223,23 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
     <div class="card d-flex flex-column h-100 text-center">
       <div class="card-body">
         <h6 class="card-title mb-0">Yanzheng Qian</h6>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(w/ Prof. Jinhui Tang)</p>
         <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">PhD student</p>
         <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">VLA</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Intern at Central South University</p>
         <p class="mb-neg-2">from 2025/11</p>
+      </div>
+    </div> 
+  </div>
+
+    <!-- 第四个成员 -->
+  <div class="col-md-4">
+    <div class="card d-flex flex-column h-100 text-center">
+      <div class="card-body">
+        <h6 class="card-title mb-0">Mengfei Zang</h6>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">PhD student</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">World Model</p>
+        <p class="mb-neg-2">from 2026/09</p>
       </div>
     </div> 
   </div>
@@ -319,34 +335,16 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
     </div> 
   </div>
    <!-- 第十个成员 -->
-  <div class="col-md-4">
-    <div class="card d-flex flex-column h-100 text-center">
-      <div class="card-body">
-        <h6 class="card-title mb-0">Tang He</h6>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Research Assistant</p>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Event-Based Vision</p>
-        <p class="mb-neg-2">from 2025/11</p>
-      </div>
-    </div> 
-  </div>
 
-  <div class="col-md-4">
-    <div class="card d-flex flex-column h-100 text-center">
-      <div class="card-body">
-        <h6 class="card-title mb-0">Xingbo Qiu</h6>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">MS student</p>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Reasoning-guided Editing</p>
-        <p class="mb-neg-2">from 2026/09</p>
-      </div>
-    </div> 
-  </div>
+
+
 
   <div class="col-md-4">
     <div class="card d-flex flex-column h-100 text-center">
       <div class="card-body">
         <h6 class="card-title mb-0">Minghang Li</h6>
         <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">MS student</p>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Online Video Model Compression</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Video Understanding</p>
         <p class="mb-neg-2">from 2026/09</p>
       </div>
     </div> 
@@ -357,7 +355,7 @@ EMC@IMAG is a group of the <a href="https://imag-njust.net/">Intelligent Media A
       <div class="card-body">
         <h6 class="card-title mb-0">Xinwen Hu</h6>
         <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">MS student</p>
-        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Online Video TTA</p>
+        <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Video Understanding</p>
         <p class="mb-neg-2">from 2026/09</p>
       </div>
     </div> 
